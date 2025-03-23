@@ -1,0 +1,1208 @@
+[
+  {
+    "title": "Java Programming and Software Engineering Fundamentals",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/Duke_JavaProgrammingIntrotoSoftware_CM195522.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/specializations/java-programming",
+    "duration": "Beginner Â· Specialization Â· 3 - 6 Months",
+    "organization": "Duke University",
+    "rating": 4.6,
+    "reviews": 22
+  },
+  {
+    "title": "Introduction to Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/java-introduction",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "LearnQuest",
+    "rating": 4.6,
+    "reviews": 21
+  },
+  {
+    "title": "Object Oriented Programming in Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/f2/9b76f090b311e7ab563db169a953fb/programming-1896158_1280.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/specializations/object-oriented-programming",
+    "duration": "Beginner Â· Specialization Â· 3 - 6 Months",
+    "organization": "Multiple educators",
+    "rating": 4.6,
+    "reviews": 15
+  },
+  {
+    "title": "Core Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/03/d249a30ce84b50a94ed728933a78b9/JavaCupLogo800x800.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/specializations/core-java",
+    "duration": "Intermediate Â· Specialization Â· 3 - 6 Months",
+    "organization": "LearnQuest",
+    "rating": 4.6,
+    "reviews": 26
+  },
+  {
+    "title": "Java FullStack Developer",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/14/4dcbc397754fb880094f4ebde1fdb5/Java-Full-Stack-Developer-specialization-2-.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/specializations/java-fullstack",
+    "duration": "Intermediate Â· Specialization Â· 1 - 3 Months",
+    "organization": "Board Infinity",
+    "rating": 4.3,
+    "reviews": 539
+  },
+  {
+    "title": "IBM Java Developer",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e0/4a9f00b09b487a826db91d37e83645/600x600_189523950.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/professional-certificates/java-developer",
+    "duration": "Beginner Â· Professional Certificate Â· 3 - 6 Months",
+    "organization": "IBM",
+    "rating": 4.6,
+    "reviews": 49
+  },
+  {
+    "title": "Object Oriented Java Programming: Data Structures and Beyond",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/UCSD_JavaProgrammingOODDS_Getty483605575.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/specializations/java-object-oriented",
+    "duration": "Intermediate Â· Specialization Â· 3 - 6 Months",
+    "organization": "University of California San Diego",
+    "rating": 4.7,
+    "reviews": 72
+  },
+  {
+    "title": "IntroducciÃ³n a Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/55/7b3941150f4632b9818e71d2ff7c27/fba781ae2.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/introduccion-java",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Universidad Nacional AutÃ³noma de MÃ©xico",
+    "rating": 4.1,
+    "reviews": 933
+  },
+  {
+    "title": "Fundamentals of Java Programming",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0c/c237909b5b4ba59d224fe041f2472a/Fundamentals-of-Java-Programming-2-.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/fundamentals-of-java-programming",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "Board Infinity",
+    "rating": 4.4,
+    "reviews": 410
+  },
+  {
+    "title": "Java Programming: Solving Problems with Software",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b6/2019201a9e11e5ace08b26adce8cb5/Java.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/java-programming",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Duke University",
+    "rating": 4.6,
+    "reviews": 8
+  },
+  {
+    "title": "Introduction to Programming with Python and Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/87/4baf437c6840719574408b962297cf/Specialization-python-java_1200x1200.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/specializations/programming-python-java",
+    "duration": "Beginner Â· Specialization Â· 3 - 6 Months",
+    "organization": "University of Pennsylvania",
+    "rating": 4.5,
+    "reviews": 18
+  },
+  {
+    "title": "Core Java for Complete Beginners",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/65/200b77f5124949afb6dda451cd6f93/Core-Java.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/specializations/core-java-course",
+    "duration": "Beginner Â· Specialization Â· 1 - 3 Months",
+    "organization": "LearnKartS",
+    "rating": 4.7,
+    "reviews": 61
+  },
+  {
+    "title": "Java Programming: Solving Problems with Software",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b6/2019201a9e11e5ace08b26adce8cb5/Java.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/java-programming",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Duke University",
+    "rating": 4.6,
+    "reviews": 8
+  },
+  {
+    "title": "Programming with Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/2d/c8bed4adf34f7da44e05f6f9a4d830/Programming-with-Java-800x800.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/programming-with-java",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "Amazon",
+    "rating": 4.1,
+    "reviews": 32
+  },
+  {
+    "title": "Java Enterprise Edition",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/9d/e1d045180242ae94d3cc1ec6a03537/JavaEE800x800.jpeg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/specializations/java-ee",
+    "duration": "Intermediate Â· Specialization Â· 1 - 3 Months",
+    "organization": "LearnQuest",
+    "rating": 4.6,
+    "reviews": 201
+  },
+  {
+    "title": "Building Scalable Java Microservices with Spring Boot and Spring Cloud",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/54/4ed1d02bfe11e9b16e4738100f1cb7/logo-java-spring-boot-cloud_.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/google-cloud-java-spring",
+    "duration": "Intermediate Â· Course Â· 1 - 4 Weeks",
+    "organization": "Google Cloud",
+    "rating": 4.3,
+    "reviews": 13
+  },
+  {
+    "title": "Object Oriented Programming in Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/87/15cd50462711e5afab87f02cb13490/Course1.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/object-oriented-java",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "University of California San Diego",
+    "rating": 4.7,
+    "reviews": 58
+  },
+  {
+    "title": "Programming in Java: A Hands-on Introduction",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/dd/00e0e80da74b8c968ac296a8f1dd38/Computer-Science_2-3x.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/specializations/hands-on-java",
+    "duration": "Beginner Â· Specialization Â· 3 - 6 Months",
+    "organization": "Codio",
+    "rating": 4.6,
+    "reviews": 182
+  },
+  {
+    "title": "Introduction to Java and Object-Oriented Programming",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e8/2a1ff8fed34aff93af0b4a89a60f7e/1200-x-1200_Introduction-to-Java-and-Object-Oriented-Programming.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/java-object-oriented-programming",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "University of Pennsylvania",
+    "rating": 4.5,
+    "reviews": 319
+  },
+  {
+    "title": "Kotlin for Java Developers",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/09/4d481b97a24cf7a3b71bf3cbb9851c/Kotlin_K.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/kotlin-for-java-developers",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "JetBrains",
+    "rating": 4.7,
+    "reviews": 21
+  },
+  {
+    "title": "Advanced Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/cc/908cc382d24bbbb6556929e0e74a59/AdvJava---Logo-1200x1200.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/advanced-java",
+    "duration": "Advanced Â· Course Â· 1 - 4 Weeks",
+    "organization": "LearnQuest",
+    "rating": 4.4,
+    "reviews": 44
+  },
+  {
+    "title": "Oracle Java Foundations",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a1/c6ce45dbf54d7ea315fa14c51d8078/Course_Logo1.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/oracle-java-foundations",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "Oracle",
+    "rating": 4.1,
+    "reviews": 468
+  },
+  {
+    "title": "Introduction to Object-Oriented Programming with Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/bc/26a3424e7c49b7b17ace26102f047f/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/object-oriented-programming-with-java",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "LearnQuest",
+    "rating": 4.7,
+    "reviews": 494
+  },
+  {
+    "title": "Java as a Second Language",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/cc/5625b40b7a4eb9a8899e8663a00c56/JavaSecLangCupLogo800x800.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/specializations/java-programming-language",
+    "duration": "Intermediate Â· Specialization Â· 3 - 6 Months",
+    "organization": "LearnQuest",
+    "rating": 4.4,
+    "reviews": 177
+  },
+  {
+    "title": "Advanced Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/92/a1467cb233403e9842dbc50820f9ef/Advanced-Java-2-.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/advanced-java-certification-course",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "LearnKartS",
+    "rating": 3.7,
+    "reviews": 11
+  },
+  {
+    "title": "Javaç¨åºè®¾è®¡",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a0/3e1060a13811e49006172a425cc956/600x340_Java____.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/java-chengxu-sheji",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "Peking University",
+    "rating": 4.6,
+    "reviews": 208
+  },
+  {
+    "title": "Initiation Ã  la programmation (en Java)",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0e/8f1f5065dc11e6986821dc57e0654d/InitJava.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/initiation-programmation-java",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Ãcole Polytechnique FÃ©dÃ©rale de Lausanne",
+    "rating": 4.8,
+    "reviews": 434
+  },
+  {
+    "title": "Java Testing",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/7e/51c1f4ace24ce4a90e161a8c96db55/JavaTest800x800.jpeg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/specializations/learnquest-java-testing",
+    "duration": "Intermediate Â· Specialization Â· 1 - 3 Months",
+    "organization": "LearnQuest",
+    "rating": 3.8,
+    "reviews": 67
+  },
+  {
+    "title": "Object-Oriented Programming with Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/35/427ed98b824edaa6508aacce0e48db/Object-Oriented-Programming-with-Java-Principal.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/object-oriented-programming-with-java-up",
+    "duration": "Intermediate Â· Course Â· 1 - 4 Weeks",
+    "organization": "Universidad de Palermo",
+    "rating": 4.8,
+    "reviews": 9
+  },
+  {
+    "title": "Introduction to Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e6/505585e4a34e77b311b7d78446ea45/Introduction-to-Java-Principal.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/introduction-to-java",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "Universidad de Palermo",
+    "rating": 4.7,
+    "reviews": 608
+  },
+  {
+    "title": "Java Programming: Arrays, Lists, and Structured Data",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/45/3b4810378111e5aec5ffdf45dcbb85/work-731198_1280.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/java-programming-arrays-lists-data",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Duke University",
+    "rating": 4.7,
+    "reviews": 32
+  },
+  {
+    "title": "Learn to Teach Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/71/13093bd36f4b30b09845354ee80ca5/Asset-7.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/specializations/teach-java",
+    "duration": "Beginner Â· Specialization Â· 3 - 6 Months",
+    "organization": "University of California San Diego",
+    "rating": 4.7,
+    "reviews": 52
+  },
+  {
+    "title": "Parallel, Concurrent, and Distributed Programming in Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1c/930ba07dde11e79dc58ffbc792295a/Multicore-logo4.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/specializations/pcdp",
+    "duration": "Intermediate Â· Specialization Â· 3 - 6 Months",
+    "organization": "Rice University",
+    "rating": 4.6,
+    "reviews": 16
+  },
+  {
+    "title": "Introduction to Java Programming: Java Fundamental Concepts",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/62/9d3c915eba43d7abb17b295d083b09/Courses-Project-images-07.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/projects/introduction-to-java-programming-java-fundamental-concepts",
+    "duration": "Beginner Â· Guided Project Â· Less Than 2 Hours",
+    "organization": "Coursera Project Network",
+    "rating": 4.4,
+    "reviews": 170
+  },
+  {
+    "title": "Java Development Deep Dive",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1b/84005f2d3e4637b9a9f074d2104056/ava-Development-Deep-Dive-Web-Apps-with-Spring-Multithreading-JEE-Best-Practice-1-.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/specializations/java-development-deep-divep-dive",
+    "duration": "Intermediate Â· Specialization Â· 3 - 6 Months",
+    "organization": "Board Infinity",
+    "rating": 4.1,
+    "reviews": 982
+  },
+  {
+    "title": "Java Programming: Principles of Software Design",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/67/19a170378111e5bb340fc2063e9b79/board-453758_1280.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/java-programming-design-principles",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Duke University",
+    "rating": 4.6,
+    "reviews": 15
+  },
+  {
+    "title": "Kotlin for Java Developers",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/09/4d481b97a24cf7a3b71bf3cbb9851c/Kotlin_K.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/kotlin-for-java-developers",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "JetBrains",
+    "rating": 4.7,
+    "reviews": 21
+  },
+  {
+    "title": "Initiation Ã  la programmation (en Java)",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0e/8f1f5065dc11e6986821dc57e0654d/InitJava.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/initiation-programmation-java",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Ãcole Polytechnique FÃ©dÃ©rale de Lausanne",
+    "rating": 4.8,
+    "reviews": 434
+  },
+  {
+    "title": "Java: Algorithms",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/18/277745b09c403883d9e2e7556c077a/Algorithms_2-3x.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/codio-java-algorithms",
+    "duration": "Intermediate Â· Course Â· 1 - 4 Weeks",
+    "organization": "Codio",
+    "rating": 4.2,
+    "reviews": 831
+  },
+  {
+    "title": "Java Programming: Principles of Software Design",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/67/19a170378111e5bb340fc2063e9b79/board-453758_1280.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/java-programming-design-principles",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Duke University",
+    "rating": 4.6,
+    "reviews": 15
+  },
+  {
+    "title": "Build Your First GUI App With Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/733d45cf694120b86501e5dfccf8c4/alexandru-acea-XEB8y0nRRP4-unsplash-1-.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/projects/build-java-gui-apps",
+    "duration": "Intermediate Â· Guided Project Â· Less Than 2 Hours",
+    "organization": "Coursera Project Network",
+    "rating": 4.5,
+    "reviews": 20
+  },
+  {
+    "title": "OrientaÃ§Ã£o a Objetos com Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9c/b444f0c97311e588123d50ccb31597/Modified--IconFinder--1454414808_1416364765_java_coffee_x_cup_application.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/orientacao-a-objetos-com-java",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "Instituto TecnolÃ³gico de AeronÃ¡utica",
+    "rating": 4.8,
+    "reviews": 11
+  },
+  {
+    "title": "Java Database Connectivity",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/6c/cc33b279b54f11a654d2c94cc5f1b3/JavaData1200x600.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/specializations/java-database-connectivity",
+    "duration": "Beginner Â· Specialization Â· 1 - 3 Months",
+    "organization": "LearnQuest",
+    "rating": 4.7,
+    "reviews": 52
+  },
+  {
+    "title": "Java Classes and Objects",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/d1/37f31a8c2e4d1cabdbe61f7ef5c9c4/cafe-151346_640.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/projects/java-classes-and-objects",
+    "duration": "Intermediate Â· Guided Project Â· Less Than 2 Hours",
+    "organization": "Coursera Project Network",
+    "rating": 4.6,
+    "reviews": 51
+  },
+  {
+    "title": "Parallel Programming in Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/76/7060107ddd11e7a14ce99700d553c6/Multicore-logo4.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/parallel-programming-in-java",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "Rice University",
+    "rating": 4.6,
+    "reviews": 12
+  },
+  {
+    "title": "Core Java - Design Patterns",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a3/0ba506a6b741f983d47e757441c609/CJ---Design-Patterns.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/core-java-design-patterns",
+    "duration": "Intermediate Â· Course Â· 1 - 4 Weeks",
+    "organization": "LearnKartS",
+    "rating": 4.7,
+    "reviews": 25
+  },
+  {
+    "title": "Advanced Data Structures in Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/02/5862d0469011e58b7267fbeaf2e97c/Course3.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/advanced-data-structures",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "University of California San Diego",
+    "rating": 4.8,
+    "reviews": 12
+  },
+  {
+    "title": "Java for Beginners: Loops & Arrays",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/07/d5d77b8f5548fda38b060a3d24aaa1/1X1.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/projects/java-beginners-loops--arrays",
+    "duration": "Intermediate Â· Guided Project Â· Less Than 2 Hours",
+    "organization": "Coursera Project Network",
+    "rating": 4.3,
+    "reviews": 8
+  },
+  {
+    "title": "IntroducciÃ³n a Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5b/d2b3ab81244de1a4b00e8860224fe9/Introduccion-a-Java-principal.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/introduccion-a-java",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "Universidad de Palermo",
+    "rating": 4.3,
+    "reviews": 681
+  },
+  {
+    "title": "Core Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ca/428be2cff44e2a91a94ccc15df4443/CoreJavaIcon.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/codio-core-java",
+    "duration": "Intermediate Â· Course Â· 1 - 4 Weeks",
+    "organization": "Codio",
+    "rating": 4.9,
+    "reviews": 32
+  },
+  {
+    "title": "Introduction To Java Database Connectivity - JDBC",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0f/e13ad3ba584ee69bc9f84ce38b1ca5/goran-ivos-_yBEyYR8wps-unsplash.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/projects/java-database-connectivity",
+    "duration": "Advanced Â· Guided Project Â· Less Than 2 Hours",
+    "organization": "Coursera Project Network",
+    "rating": 4.4,
+    "reviews": 82
+  },
+  {
+    "title": "Java for Android",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/d8/b19930ba3c11e5adfb350b9807f4d8/android_java-2.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/java-for-android",
+    "duration": "Beginner Â· Course Â· 1 - 3 Months",
+    "organization": "Vanderbilt University",
+    "rating": 4.5,
+    "reviews": 31
+  },
+  {
+    "title": "Core Java - Foundations",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f1/af70b2252644bab186202f48904c6e/Core-Java---Fundamentals.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/core-java-foundations",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "LearnKartS",
+    "rating": 4.7,
+    "reviews": 27
+  },
+  {
+    "title": "Introduction Ã  la programmation orientÃ©e objet (en Java)",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/3f/c67f9065dd11e6b0aa71a95322c713/introJava.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+    "product_link": "https://www.coursera.org/learn/programmation-orientee-objet-java",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "Ãcole Polytechnique FÃ©dÃ©rale de Lausanne",
+    "rating": 4.7,
+    "reviews": 315
+  },
+  {
+    "title": "Java Built in Data Structures",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/d1/37f31a8c2e4d1cabdbe61f7ef5c9c4/cafe-151346_640.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/projects/java-built-in-data-structures",
+    "duration": "Intermediate Â· Guided Project Â· Less Than 2 Hours",
+    "organization": "Coursera Project Network",
+    "rating": 4.6,
+    "reviews": 20
+  },
+  {
+    "title": "Java Database Connectivity (JDBC) Introduction",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a2/26f56806694b5ca924687a0474fcf7/JavaData800x800.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/java-database-connectivity-introduction",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "LearnQuest",
+    "rating": 4.7,
+    "reviews": 35
+  },
+  {
+    "title": "Inheritance and Data Structures in Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/5ed35de3484c1892d672f21a4f72c1/1200-x-1200_Inheritance-and-Data-Structures-in-Java.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/java-inheritance-data-structures",
+    "duration": "Beginner Â· Course Â· 1 - 4 Weeks",
+    "organization": "University of Pennsylvania",
+    "rating": 4.7,
+    "reviews": 85
+  },
+  {
+    "title": "Lambda Expressions with Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/6b/50c2de92414cf4be7e31d116c747cb/How-to-set-up-shop-on-Facebook-Shops-using-Canva-12-.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/projects/lambda-expressions",
+    "duration": "Intermediate Â· Guided Project Â· Less Than 2 Hours",
+    "organization": "Coursera Project Network",
+    "rating": 4.2,
+    "reviews": 19
+  },
+  {
+    "title": "Writing Java Application Code",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ed/2f019c864840dca46c8c3c2cd0e559/JavaSecLangCupLogo800x800.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/writing-java-code-for-applications",
+    "duration": "Intermediate Â· Course Â· 1 - 4 Weeks",
+    "organization": "LearnQuest",
+    "rating": 4.4,
+    "reviews": 53
+  },
+  {
+    "title": "Distributed Programming in Java",
+    "image_link": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/09/463fe07dde11e7867f33052b4b8887/Multicore-logo4.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+    "product_link": "https://www.coursera.org/learn/distributed-programming-in-java",
+    "duration": "Intermediate Â· Course Â· 1 - 3 Months",
+    "organization": "Rice University",
+    "rating": 4.5,
+    "reviews": 495
+  },
+  {
+    "title": "Introduction to Java Programming: Writing Good Code",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/universidad-carlos-iii-de-madrid-introduction-to-java-programming-writing-good-code?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=8",
+    "duration": "Duration not found",
+    "organization": "UC3Mx",
+    "rating": 4.8,
+    "reviews": 577
+  },
+  {
+    "title": "Introducción a la programación en Java: estructuras de datos y algoritmos",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/universidad-carlos-iii-de-madrid-introduccion-a-la-programacion-en-java-estructuras-de-datos-y-algoritmos?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=9",
+    "duration": "Duration not found",
+    "organization": "UC3Mx",
+    "rating": 4.8,
+    "reviews": 794
+  },
+  {
+    "title": "Introducción a la programación en Java: escribiendo buen código",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/universidad-carlos-iii-de-madrid-introduccion-a-la-programacion-en-java-escribiendo-buen-codigo?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=10",
+    "duration": "Duration not found",
+    "organization": "UC3Mx",
+    "rating": 5.0,
+    "reviews": 121
+  },
+  {
+    "title": "AP Computer Science A: Java Programming",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/purdue-university-ap-computer-science-a-java-programming?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=11",
+    "duration": "Duration not found",
+    "organization": "PurdueX",
+    "rating": 4.6,
+    "reviews": 921
+  },
+  {
+    "title": "Fundamentals of Java EE Development",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/red-hat-fundamentals-of-java-ee-development?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=12",
+    "duration": "Duration not found",
+    "organization": "RedHat",
+    "rating": 4.3,
+    "reviews": 184
+  },
+  {
+    "title": "AP Computer Science A: Java Programming Classes and Objects",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/computer-programming/purdue-university-ap-computer-science-a-java-programming-classes-and-objects?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=13",
+    "duration": "Duration not found",
+    "organization": "PurdueX",
+    "rating": 4.8,
+    "reviews": 322
+  },
+  {
+    "title": "AP Computer Science A: Java Programming Polymorphism and Advanced Data Structures",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/computer-programming/purdue-university-ap-computer-science-a-java-programming-polymorphism-and-advanced-data-structures?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=14",
+    "duration": "Duration not found",
+    "organization": "PurdueX",
+    "rating": 4.7,
+    "reviews": 928
+  },
+  {
+    "title": "AP Computer Science A: Java Programming Loops and Data Structures",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java-programming/purdue-university-ap-computer-science-a-java-programming-loops-and-data-structures?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=15",
+    "duration": "Duration not found",
+    "organization": "PurdueX",
+    "rating": 4.2,
+    "reviews": 764
+  },
+  {
+    "title": "Introduction to Java Programming – Part 2",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/the-hong-kong-university-of-science-and-technology-introduction-to-java-programming-part-2?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=16",
+    "duration": "Duration not found",
+    "organization": "HKUSTx",
+    "rating": 4.6,
+    "reviews": 466
+  },
+  {
+    "title": "Introduction to Java Programming – Part 1",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/the-hong-kong-university-of-science-and-technology-introduction-to-java-programming-part-1?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=17",
+    "duration": "Duration not found",
+    "organization": "HKUSTx",
+    "rating": 4.4,
+    "reviews": 891
+  },
+  {
+    "title": "CS50's Web Programming with Python and JavaScript",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=18",
+    "duration": "Duration not found",
+    "organization": "HarvardX",
+    "rating": 4.3,
+    "reviews": 984
+  },
+  {
+    "title": "Introduction to Web Development with HTML5, CSS3, and JavaScript.",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/web-development/ibm-introduction-to-web-development-with-html5-css3-and-javascript?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=19",
+    "duration": "Duration not found",
+    "organization": "IBM",
+    "rating": 5.0,
+    "reviews": 624
+  },
+  {
+    "title": "JavaScript Introduction",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/javascript/the-world-wide-web-consortium-w3c-javascript-introduction?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=20",
+    "duration": "Duration not found",
+    "organization": "W3Cx",
+    "rating": 4.5,
+    "reviews": 410
+  },
+  {
+    "title": "Google AI for JavaScript developers with TensorFlow.js",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/javascript/google-google-ai-for-javascript-developers-with-tensorflow-js?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=21",
+    "duration": "Duration not found",
+    "organization": "Google",
+    "rating": 4.3,
+    "reviews": 620
+  },
+  {
+    "title": "JavaScript Basics",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/computer-science/university-of-california-davis-javascript-basics?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=22",
+    "duration": "Duration not found",
+    "organization": "UCDavis",
+    "rating": 4.7,
+    "reviews": 699
+  },
+  {
+    "title": "Introduction to Object-Oriented Programming with Java II: Object-Oriented Programming and Algorithms",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/the-georgia-institute-of-technology-introduction-to-object-oriented-programming-with-java-ii-object-oriented-programming-and-algorithms?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=23",
+    "duration": "Duration not found",
+    "organization": "GTx",
+    "rating": 4.3,
+    "reviews": 641
+  },
+  {
+    "title": "Java Programming: Object-Oriented Design",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/codio-java-programming-object-oriented-design?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=24",
+    "duration": "Duration not found",
+    "organization": "Codio",
+    "rating": 4.3,
+    "reviews": 382
+  },
+  {
+    "title": "Learn to Program in Java",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/microsoft-learn-to-program-in-java?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=1",
+    "duration": "Duration not found",
+    "organization": "Microsoft",
+    "rating": 4.1,
+    "reviews": 824
+  },
+  {
+    "title": "Java Programming: Basic Skills",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/codio-java-programming-basic-skills?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=2",
+    "duration": "Duration not found",
+    "organization": "Codio",
+    "rating": 4.3,
+    "reviews": 916
+  },
+  {
+    "title": "Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/the-georgia-institute-of-technology-introduction-to-object-oriented-programming-with-java-i-foundations-and-syntax-basics?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=3",
+    "duration": "Duration not found",
+    "organization": "GTx",
+    "rating": 4.9,
+    "reviews": 983
+  },
+  {
+    "title": "Java Programming Fundamentals",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/universidad-galileo-java-programming-fundamentals?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=4",
+    "duration": "Duration not found",
+    "organization": "GalileoX",
+    "rating": 4.9,
+    "reviews": 355
+  },
+  {
+    "title": "Introduction to Java Programming: Starting to code in Java",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/universidad-carlos-iii-de-madrid-introduction-to-java-programming-starting-to-code-in-java?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=5",
+    "duration": "Duration not found",
+    "organization": "UC3Mx",
+    "rating": 4.8,
+    "reviews": 461
+  },
+  {
+    "title": "Introducción a la programación en Java: empezando a programar",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/java/universidad-carlos-iii-de-madrid-introduccion-a-la-programacion-en-java-empezando-a-programar?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=6",
+    "duration": "Duration not found",
+    "organization": "UC3Mx",
+    "rating": 4.9,
+    "reviews": 804
+  },
+  {
+    "title": "Introduction to Java Programming: Fundamental Data Structures and Algorithms",
+    "image_link": "https://www.edx.org/search?q=java&tab=course&page=1",
+    "product_link": "https://www.edx.org/learn/data-structures/universidad-carlos-iii-de-madrid-introduction-to-java-programming-fundamental-data-structures-and-algorithms?index=product&queryId=220fd1aa837dfc53c4dd7d7e18b8a2f2&position=7",
+    "duration": "Duration not found",
+    "organization": "UC3Mx",
+    "rating": 4.8,
+    "reviews": 812
+  },
+  {
+    "title": "Learning Java 11",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQHzf7Mgd25c7A/learning-public-crop_288_512/learning-public-crop_288_512/0/1719351878769?e=2147483647&v=beta&t=XINXzmeu2al_IuY-1SYrKsbA_5na6rHZ0vgnZwWNZl4",
+    "product_link": "https://www.linkedin.com/learning/learning-java-11?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 36m",
+    "organization": "By: Kathryn Hodge",
+    "rating": 4.3,
+    "reviews": 164
+  },
+  {
+    "title": "Oracle Java Foundations",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQHE9XbiPjx-BQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1731084381109?e=2147483647&v=beta&t=Gb9kGJAXtwn4icFv2fY8j89lTFW81z152cjbBxKazMk",
+    "product_link": "https://www.linkedin.com/learning/oracle-java-foundations?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "7h 17m",
+    "organization": "By: Oracle University",
+    "rating": 4.6,
+    "reviews": 264
+  },
+  {
+    "title": "Intermediate Java: 5 Projects",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQF9xwVqqFykqA/learning-public-crop_288_512/learning-public-crop_288_512/0/1729722272641?e=2147483647&v=beta&t=kqfZRWY2YoMBwUmu8igF-cvnfX68xYGq3CQFU6cy3WE",
+    "product_link": "https://www.linkedin.com/learning/intermediate-java-5-projects?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "3h 2m",
+    "organization": "By: Shaun Wassell",
+    "rating": 4.7,
+    "reviews": 135
+  },
+  {
+    "title": "What is Java?",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQHzf7Mgd25c7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351878442?e=2147483647&v=beta&t=djhvqKNLdb4lxdmt7sAaT8NWw_NX4DRGC5Kxca0DXYc",
+    "product_link": "https://www.linkedin.com/learning/learning-java-11/what-is-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "1m",
+    "organization": "Learning Java 11",
+    "rating": 4.3,
+    "reviews": 468
+  },
+  {
+    "title": "Getting Started with Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQHueqxUKcxznA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1571943407329?e=2147483647&v=beta&t=pD_2oSEibCHRuVACfTQWgE7TLGbJ6lWWa0g9s5rCk_c",
+    "product_link": "https://www.linkedin.com/learning/advanced-selenium-automation-frameworks/getting-started-with-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "46s",
+    "organization": "Advanced Selenium: Automation Frameworks",
+    "rating": 4.2,
+    "reviews": 348
+  },
+  {
+    "title": "Learning Java Collections",
+    "image_link": "https://media.licdn.com/dms/image/v2/C560DAQGoBE1qOqZWYg/learning-public-crop_288_512/learning-public-crop_288_512/0/1632758718519?e=2147483647&v=beta&t=mFcLAkWOSCikxxU-4j1c-f4R4whDgzVLwgfK5NBNRFg",
+    "product_link": "https://www.linkedin.com/learning/learning-java-collections?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "3h 10m",
+    "organization": "By: Kevin Bowersox",
+    "rating": 4.9,
+    "reviews": 368
+  },
+  {
+    "title": "Java: Advanced Concepts for High-Performance Development",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQGw3sFhiEecwQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1670989829357?e=2147483647&v=beta&t=CEZ7nz6PB5q1M3oCDXmeKQWRO4qipi9K-z-Wm0Kphs0",
+    "product_link": "https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "1h 57m",
+    "organization": "By: Bethan Palmer",
+    "rating": 4.6,
+    "reviews": 409
+  },
+  {
+    "title": "What is Java?",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQE8E7oMwSMsOg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1694720556757?e=2147483647&v=beta&t=j2AhaizeL3wiRqfBHmet8Db9R1n7QM5ZkqtSGAF3sEI",
+    "product_link": "https://www.linkedin.com/learning/learning-java-17/what-is-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2m",
+    "organization": "Learning Java 17",
+    "rating": 4.8,
+    "reviews": 216
+  },
+  {
+    "title": "Functional Programming with Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQGYEjs-rfjBeA/learning-public-crop_288_512/learning-public-crop_288_512/0/1722456885392?e=2147483647&v=beta&t=RdQJSzNiW2U9rh-57I6sjbpUtJtO2zfork3lbWEgQR0",
+    "product_link": "https://www.linkedin.com/learning/functional-programming-with-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 43m",
+    "organization": "By: Shaun Wassell",
+    "rating": 4.3,
+    "reviews": 475
+  },
+  {
+    "title": "Java: Data Structures",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQELe07gbOJkkw/learning-public-crop_288_512/learning-public-crop_288_512/0/1719351837749?e=2147483647&v=beta&t=VULJ8PZZd8M782BRBO52bdATG0KAVh5Fh3jewsC2b2Y",
+    "product_link": "https://www.linkedin.com/learning/java-data-structures-14403471?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "49m",
+    "organization": "By: Bethan Palmer",
+    "rating": 4.6,
+    "reviews": 124
+  },
+  {
+    "title": "GenAI Foundations in Java Development",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4E0DAQGBlB84xwvztA/learning-public-crop_288_512/learning-public-crop_288_512/0/1724100155773?e=2147483647&v=beta&t=GEaUnETAAoWfFHmpAxqHsCmG0S9gfgutg7gMuN7neqE",
+    "product_link": "https://www.linkedin.com/learning/genai-foundations-in-java-development?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "53m",
+    "organization": "By: Terezija Semenski",
+    "rating": 4.1,
+    "reviews": 210
+  },
+  {
+    "title": "Learning Java Swing",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQHDmLuUJb1qZg/learning-public-crop_288_512/B4DZU_tRNaHIAQ-/0/1740530587159?e=2147483647&v=beta&t=sKr-cpsX0phqEMz0jx3eDUBItypXVmPO0h0EE-LKbDQ",
+    "product_link": "https://www.linkedin.com/learning/learning-java-swing?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "1h 34m",
+    "organization": "By: Peggy Fisher",
+    "rating": 4.0,
+    "reviews": 410
+  },
+  {
+    "title": "Learning Java 17",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQE8E7oMwSMsOg/learning-public-crop_288_512/learning-public-crop_288_512/0/1694720556756?e=2147483647&v=beta&t=AGrhNexDEonv7_uLMKtiSDjj5as16zdPVSA2wHv9I5c",
+    "product_link": "https://www.linkedin.com/learning/learning-java-17?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 16m",
+    "organization": "By: Kathryn Hodge",
+    "rating": 4.4,
+    "reviews": 458
+  },
+  {
+    "title": "Spring Framework in Depth",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQHQkdsXWP-ZQQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1731028968806?e=2147483647&v=beta&t=HrcwYAU2Pv6ZqBsvwD-Juuh7L2Eh17UtTTzv0aI6sBU",
+    "product_link": "https://www.linkedin.com/learning/spring-framework-in-depth-23924413?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "1h 55m",
+    "organization": "By: Frank P Moley III",
+    "rating": 4.6,
+    "reviews": 438
+  },
+  {
+    "title": "Java 8 for Professionals",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQESo8Az-u_tgA/learning-public-crop_288_512/learning-public-crop_288_512/0/1708448120695?e=2147483647&v=beta&t=ZZi7suMv0V_L2UvgAtdx7iZ35KTOmTyav6l05bFVvxY",
+    "product_link": "https://www.linkedin.com/learning/java-8-for-professionals?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 45m",
+    "organization": "By: Maaike van Putten",
+    "rating": 4.1,
+    "reviews": 357
+  },
+  {
+    "title": "Learning Java Enterprise Edition",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQG1d1h8urxWqw/learning-public-crop_288_512/learning-public-crop_288_512/0/1568668947648?e=2147483647&v=beta&t=kdYfR9I6zwdZnbXOnZvuMlIlvjuyHfB7R_veZTklXhY",
+    "product_link": "https://www.linkedin.com/learning/learning-java-enterprise-edition?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 20m",
+    "organization": "By: Alex Theedom",
+    "rating": 4.4,
+    "reviews": 106
+  },
+  {
+    "title": "Top Features of Java 21",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQFok5yyJWr8YQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1721765368457?e=2147483647&v=beta&t=9NBiV3CeDISTMMe9m-CY1kwZgqzgXmku2P91GO8t0no",
+    "product_link": "https://www.linkedin.com/learning/top-features-of-java-21?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "50m",
+    "organization": "By: Bethan Palmer",
+    "rating": 4.8,
+    "reviews": 346
+  },
+  {
+    "title": "Java SE 11 Developer (1Z0-819) Cert Prep",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQHTNm1f3JKMZA/learning-public-crop_288_512/learning-public-crop_288_512/0/1729106347123?e=2147483647&v=beta&t=4e159hUv9BIGVuWMx7CaprK1zmx2eUQWMJHPueLRal0",
+    "product_link": "https://www.linkedin.com/learning/java-se-11-developer-1z0-819-cert-prep?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "18h 5m",
+    "organization": "By: Pearson and Simon Roberts",
+    "rating": 4.5,
+    "reviews": 389
+  },
+  {
+    "title": "Oracle Java Certification: 1. Data Types",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQETwoDao5imww/learning-public-crop_288_512/learning-public-crop_288_512/0/1568070241490?e=2147483647&v=beta&t=UNxR4Uu4vYNBtqwmbLlWh3K3AgQEQXP81H4d4pFPa5A",
+    "product_link": "https://www.linkedin.com/learning/oracle-java-certification-1-data-types?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "34m",
+    "organization": "By: Baochuan Lu",
+    "rating": 4.3,
+    "reviews": 351
+  },
+  {
+    "title": "Hands-On Introduction: Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQF6nAhBEhw54Q/learning-public-crop_288_512/learning-public-crop_288_512/0/1666989653554?e=2147483647&v=beta&t=WAW7pEopFNVXpeIUl73_ZRYxa04tf-1oo6kTSk2QUBY",
+    "product_link": "https://www.linkedin.com/learning/hands-on-introduction-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "1h 20m",
+    "organization": "By: Angie Jones",
+    "rating": 4.8,
+    "reviews": 346
+  },
+  {
+    "title": "Java Essential Training: Syntax and Structure",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQHJ39iKZdeJeg/learning-public-crop_288_512/learning-public-crop_288_512/0/1724878410550?e=2147483647&v=beta&t=3mgTRgaEMOPteVbRKjqmhcA78G83SOb7qkQDdEVK7i8",
+    "product_link": "https://www.linkedin.com/learning/java-essential-training-syntax-and-structure-16025610?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 28m",
+    "organization": "By: Angie Jones",
+    "rating": 4.2,
+    "reviews": 451
+  },
+  {
+    "title": "Java EE 8 Essential Training",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQHXwmjM6J4Kxg/learning-public-crop_288_512/learning-public-crop_288_512/0/1575569110968?e=2147483647&v=beta&t=aumd4Id-NonRxdaXJioreHpaiksn9bcac-23ogv2AT8",
+    "product_link": "https://www.linkedin.com/learning/java-ee-8-essential-training?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "6h 42m",
+    "organization": "By: Kevin Bowersox",
+    "rating": 4.3,
+    "reviews": 370
+  },
+  {
+    "title": "What is Java memory?",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQHNqyFy0rQSiA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1710461282859?e=2147483647&v=beta&t=LjUM--S07MjJJulmAJyTDydJrHCeGx4UeNVs489gpBI",
+    "product_link": "https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "1m",
+    "organization": "Java Memory Management: Values and References",
+    "rating": 4.2,
+    "reviews": 464
+  },
+  {
+    "title": "Java Object-Oriented Programming",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4D0DAQG6dQ0gh0wiAw/learning-public-crop_288_512/learning-public-crop_288_512/0/1622221555885?e=2147483647&v=beta&t=aP81dkpQ5eUzBy7ZTifpeATxIgFJRXtGXIPJKjDb20s",
+    "product_link": "https://www.linkedin.com/learning/java-object-oriented-programming-2?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 2m",
+    "organization": "By: Kathryn Hodge",
+    "rating": 4.9,
+    "reviews": 107
+  },
+  {
+    "title": "Scala Essential Training",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQFScGwBIa6BMw/learning-public-crop_288_512/learning-public-crop_288_512/0/1705536093368?e=2147483647&v=beta&t=3f-nngAPK33f5pPvmle2N3yzkXbvSwYuBn7HhocOsqM",
+    "product_link": "https://www.linkedin.com/learning/scala-essential-training-2023?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "4h 43m",
+    "organization": "By: Rock the JVM",
+    "rating": 4.7,
+    "reviews": 407
+  },
+  {
+    "title": "Java: Lambdas and Streams",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQE9ni67NPykmg/learning-public-crop_288_512/learning-public-crop_288_512/0/1719351911215?e=2147483647&v=beta&t=2E27HBf7_2ibWeI_EcjuezScoQkLtVVWpInlnqQzdrU",
+    "product_link": "https://www.linkedin.com/learning/java-lambdas-and-streams?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "42m",
+    "organization": "By: Bethan Palmer",
+    "rating": 5.0,
+    "reviews": 251
+  },
+  {
+    "title": "Creating a producer in Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQFHx_pVYywSXA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1686957444139?e=2147483647&v=beta&t=NhYgdf3Y_2sWePm6WCOVar3_YDwr_KsBjGyMKJZ2k9c",
+    "product_link": "https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-producer-in-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2m",
+    "organization": "Apache Kafka Essential Training: Getting Started",
+    "rating": 4.3,
+    "reviews": 376
+  },
+  {
+    "title": "Java Essential Training: Objects and APIs",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQGbRg1XEBD8lw/learning-public-crop_288_512/learning-public-crop_288_512/0/1725395859646?e=2147483647&v=beta&t=4yRv4E7JSNRn7NDeSubpSyzXmtEn0GLw_McP0fjjioc",
+    "product_link": "https://www.linkedin.com/learning/java-essential-training-objects-and-apis-16021820?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 10m",
+    "organization": "By: Angie Jones",
+    "rating": 4.2,
+    "reviews": 352
+  },
+  {
+    "title": "Learning Spring 6 with Spring Boot 3",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQHIALbX3heJRg/learning-public-crop_288_512/learning-public-crop_288_512/0/1700601834997?e=2147483647&v=beta&t=qFGeLq1rziWPxpbhE7f4H0ww0Q5ihwewBnoRw_D3hLc",
+    "product_link": "https://www.linkedin.com/learning/learning-spring-6-with-spring-boot-3?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "1h 49m",
+    "organization": "By: Frank P Moley III",
+    "rating": 4.9,
+    "reviews": 292
+  },
+  {
+    "title": "Introduction to generics in Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQGw3sFhiEecwQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1670989829357?e=2147483647&v=beta&t=i-0hI0dmXYyAU4vlQCsOVs6Y19zJ7dZvMKB8fzSL0co",
+    "product_link": "https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "4m",
+    "organization": "Java: Advanced Concepts for High-Performance Development",
+    "rating": 4.3,
+    "reviews": 311
+  },
+  {
+    "title": "Modern Java development",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4E0DAQHuCLqk6OsB8g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1732734297442?e=2147483647&v=beta&t=-rsRdhbTnzvP3JGFTel1lu1q5kNjqW99M-vr6oUIho4",
+    "product_link": "https://www.linkedin.com/learning/modern-java-development-creating-a-book-search-engine-from-scratch-using-github-copilot/modern-java-development?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "37s",
+    "organization": "Modern Java Development: Creating a Book Search Engine from Scratch Using GitHub Copilot",
+    "rating": 4.7,
+    "reviews": 416
+  },
+  {
+    "title": "What you should know",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQGlx2WkvENrCA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1729273882423?e=2147483647&v=beta&t=-O5JSWZNG3k4KJ0CYGZz_PmJlDvHCEI0mCxFR73xyE0",
+    "product_link": "https://www.linkedin.com/learning/test-automation-with-selenium-webdriver-for-java/what-you-should-know?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "51s",
+    "organization": "Test Automation with Selenium WebDriver for Java",
+    "rating": 4.4,
+    "reviews": 480
+  },
+  {
+    "title": "Complete Guide to Java Design Patterns: Creational, Behavioral, and Structural",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQEyFMOVuMzMew/learning-public-crop_288_512/learning-public-crop_288_512/0/1711582600788?e=2147483647&v=beta&t=asfNXL3dnRcmLyRXPBB1cRC_HHLx2EJfSSFkrRZg7CY",
+    "product_link": "https://www.linkedin.com/learning/complete-guide-to-java-design-patterns-creational-behavioral-and-structural?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "5h 6m",
+    "organization": "By: Bethan Palmer",
+    "rating": 4.5,
+    "reviews": 141
+  },
+  {
+    "title": "Transform your Java skills with machine learning",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4E0DAQG4_wWQqaMfTg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731632828110?e=2147483647&v=beta&t=2tes5miRmfXWBVQignSMp-lbsZGfECTRHZTKBZoQNxo",
+    "product_link": "https://www.linkedin.com/learning/foundations-of-ai-and-machine-learning-for-java-developers/transform-your-java-skills-with-machine-learning?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "55s",
+    "organization": "Foundations of AI and Machine Learning for Java Developers",
+    "rating": 4.3,
+    "reviews": 303
+  },
+  {
+    "title": "Java 8 Essential Training",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQE4EaT-NTx1Zg/learning-public-crop_288_512/learning-public-crop_288_512/0/1723235553413?e=2147483647&v=beta&t=xd1Qn79ByfbM8B06V47XFqi3iTQ4TnPfKR5B8_J4YJY",
+    "product_link": "https://www.linkedin.com/learning/java-8-essential-training?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "6h 25m",
+    "organization": "By: David Gassner",
+    "rating": 4.9,
+    "reviews": 365
+  },
+  {
+    "title": "Calling REST APIs with Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQHudUzkezpjKw/learning-public-crop_288_512/learning-public-crop_288_512/0/1617216568864?e=2147483647&v=beta&t=_ooZQDcobtMzsenHcIos9KXRawEwwxNjOw64n5Kudiw",
+    "product_link": "https://www.linkedin.com/learning/calling-rest-apis-with-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 22m",
+    "organization": "By: Kevin Bowersox",
+    "rating": 4.1,
+    "reviews": 232
+  },
+  {
+    "title": "Java Algorithms",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQHIBQUJ2bLBXQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1702927839806?e=2147483647&v=beta&t=TFUEvwrV6YzTuhnzcx_BkaUH2kWFxd8o_50I_6wJ6_A",
+    "product_link": "https://www.linkedin.com/learning/java-algorithms?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 37m",
+    "organization": "By: Kathryn Hodge",
+    "rating": 4.4,
+    "reviews": 185
+  },
+  {
+    "title": "NetBeans introduction",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQHE9XbiPjx-BQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731084380705?e=2147483647&v=beta&t=nAhqE5SuiTwzyTYfMA57nBom6JtRNYYe9BYge0Uw3Qw",
+    "product_link": "https://www.linkedin.com/learning/oracle-java-foundations/netbeans-intro?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "8m",
+    "organization": "Oracle Java Foundations",
+    "rating": 4.1,
+    "reviews": 260
+  },
+  {
+    "title": "Java Practice: Collections",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQFoYpQO-RZDZA/learning-public-crop_288_512/learning-public-crop_288_512/0/1692902039750?e=2147483647&v=beta&t=ZYR1rVfb6gZ6e7lCCkftnzKm8OQzxUhrJQbSLwKv5bk",
+    "product_link": "https://www.linkedin.com/learning/java-practice-collections?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "22m",
+    "organization": "By: Todd Perkins",
+    "rating": 5.0,
+    "reviews": 320
+  },
+  {
+    "title": "Complete Guide to Parallel and Concurrent Programming with Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQEnPAaVBqNKMQ/learning-public-crop_288_512/learning-public-crop_288_512/0/1735845214069?e=2147483647&v=beta&t=4dx-KX_eEaUQJ4XoZVpd9MTi5jS73i4GPVrpk7sej28",
+    "product_link": "https://www.linkedin.com/learning/complete-guide-to-parallel-and-concurrent-programming-with-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "5h 27m",
+    "organization": "By: Barron Stone",
+    "rating": 4.5,
+    "reviews": 283
+  },
+  {
+    "title": "Java in the enterprise",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQHE9XbiPjx-BQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731084380705?e=2147483647&v=beta&t=nAhqE5SuiTwzyTYfMA57nBom6JtRNYYe9BYge0Uw3Qw",
+    "product_link": "https://www.linkedin.com/learning/oracle-java-foundations/java-in-the-enterprise?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "3m",
+    "organization": "Oracle Java Foundations",
+    "rating": 4.5,
+    "reviews": 380
+  },
+  {
+    "title": "Mobile Testing with Appium",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQHrQtRPmmIuyg/learning-public-crop_288_512/learning-public-crop_288_512/0/1568660712326?e=2147483647&v=beta&t=ZuEsux69c-WJ14D3jUEw7Ti8iAjk1whCnQHPrPVIcqs",
+    "product_link": "https://www.linkedin.com/learning/mobile-testing-with-appium?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 10m",
+    "organization": "By: Jonathan Lipps",
+    "rating": 4.9,
+    "reviews": 330
+  },
+  {
+    "title": "Parallel and Concurrent Programming with Java 1",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQHWVUrpNtTeIA/learning-public-crop_288_512/learning-public-crop_288_512/0/1619131838061?e=2147483647&v=beta&t=9IeOhDrgTswCbUicEfhno4WE-UFbVHOW5jvh3itolKQ",
+    "product_link": "https://www.linkedin.com/learning/parallel-and-concurrent-programming-with-java-1?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2h 15m",
+    "organization": "By: Olivia Chiu Stone and Barron Stone",
+    "rating": 4.4,
+    "reviews": 442
+  },
+  {
+    "title": "Classes in Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQHzf7Mgd25c7A/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1719351878442?e=2147483647&v=beta&t=djhvqKNLdb4lxdmt7sAaT8NWw_NX4DRGC5Kxca0DXYc",
+    "product_link": "https://www.linkedin.com/learning/learning-java-11/classes-in-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "4m",
+    "organization": "Learning Java 11",
+    "rating": 4.7,
+    "reviews": 273
+  },
+  {
+    "title": "Creating a Java project in IntelliJ IDEA",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQE4EaT-NTx1Zg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1723235553003?e=2147483647&v=beta&t=0Hg7IWlESmHg25YCPB8oDTUST5FvRMRZGfeMG9vPRdc",
+    "product_link": "https://www.linkedin.com/learning/java-8-essential-training/creating-a-java-project-in-intellij-idea-24445446?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "3m",
+    "organization": "Java 8 Essential Training",
+    "rating": 4.1,
+    "reviews": 161
+  },
+  {
+    "title": "Java basics overview",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQHE9XbiPjx-BQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731084380705?e=2147483647&v=beta&t=nAhqE5SuiTwzyTYfMA57nBom6JtRNYYe9BYge0Uw3Qw",
+    "product_link": "https://www.linkedin.com/learning/oracle-java-foundations/java-basics-overview?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "3m",
+    "organization": "Oracle Java Foundations",
+    "rating": 4.1,
+    "reviews": 188
+  },
+  {
+    "title": "Practice It: Java",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQE71ngxkONQwA/learning-public-crop_288_512/learning-public-crop_288_512/0/1666990137684?e=2147483647&v=beta&t=vFa-4bpFa0tgp3IVxRTAG8YjWl5M6QmmFL962WOyuTc",
+    "product_link": "https://www.linkedin.com/learning/practice-it-java?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "59m",
+    "organization": "By: Bethan Palmer",
+    "rating": 4.5,
+    "reviews": 483
+  },
+  {
+    "title": "Java SE 17 Developer (1Z0-829) Cert Prep",
+    "image_link": "https://media.licdn.com/dms/image/v2/D4D0DAQHDt9ATAgGGzw/learning-public-crop_288_512/learning-public-crop_288_512/0/1729699367295?e=2147483647&v=beta&t=aEmY-eVgt7YlJbtBRMiE_gth-SA9ESwXhj4YOtg8G6I",
+    "product_link": "https://www.linkedin.com/learning/java-se-17-developer-1z0-829-cert-prep?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "21h 39m",
+    "organization": "By: Pearson and Simon Roberts",
+    "rating": 5.0,
+    "reviews": 104
+  },
+  {
+    "title": "Java overview",
+    "image_link": "https://media.licdn.com/dms/image/v2/C4E0DAQFOV9pveT81PA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1568666330588?e=2147483647&v=beta&t=oPZnRsBe0KC54btQXbOZhN-8Ar5lvOgqDzGvGagbPmQ",
+    "product_link": "https://www.linkedin.com/learning/learning-apache-tomcat/java-overview?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "2m",
+    "organization": "Learning Apache Tomcat",
+    "rating": 4.1,
+    "reviews": 413
+  },
+  {
+    "title": "Java 11+ Essential Training",
+    "image_link": "https://media.licdn.com/dms/image/v2/D560DAQG271ZwaibMUA/learning-public-crop_288_512/learning-public-crop_288_512/0/1719351929823?e=2147483647&v=beta&t=OqaMnfvsSLg3nNHiGTlAe7LezXPi9IpFhQtp_nsxycI",
+    "product_link": "https://www.linkedin.com/learning/java-11-plus-essential-training?upsellOrderOrigin=default_guest_learning&trk=default_guest_learning",
+    "duration": "4h 9m",
+    "organization": "By: David Gassner",
+    "rating": 4.5,
+    "reviews": 247
+  }
+]
